@@ -7,7 +7,6 @@ from models.cliente_model import (
 
 
 def validar_email(email):
-
     if not email:
         return True
 
